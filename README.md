@@ -20,4 +20,6 @@ Nesne Yönelimli Programlama, Her işlevin nesneler olarak soyutlandığı bir p
     Sınıflar birbirlerinin özelliklerini alabilirler.Bu şekilde Alt-Üst Sınıf kavramları oluşur.
  - Polymorphism (Çok Biçimlilik) : 
     Alt ve Üst Sınıfın birbirinden farklı davranışları göstermesine denir.
+    
+ #### Class yapılarını projede işliyor olacağım. 
    
